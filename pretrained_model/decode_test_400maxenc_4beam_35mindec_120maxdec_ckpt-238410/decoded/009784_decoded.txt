@@ -1,0 +1,3 @@
+the app uses a quick response code , or qr code , which is a form of barcode that the cameras of mobile phones are able to detect .
+the alarm is set to go off at a certain time the night before and will make a noise until the qr code is scanned .
+the app developers also say they will be able to print the code onto mugs or magnetic buttons .
